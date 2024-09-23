@@ -1,0 +1,1 @@
+# plugins-allow-webp-image
